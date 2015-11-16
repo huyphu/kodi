@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.huyphu"
-    name="[COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository"
+    name="[B][COLOR ffe25d62]H[/COLOR]uy [COLOR ffe5bc86]P[/COLOR]hu[/B] Repository"
     version="1.0.0"
-    provider-name="NguyenYustar">
+    provider-name="NguyenYustar@HuyPhu">
     <requires>
         <import addon="xbmc.addon" version="12.0.0" />
     </requires>
     <extension point="xbmc.addon.repository"
-        name="[COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository">
-        <info compressed="false">https://raw.githubusercontent.com/huyphu/kodi/master/addons/addons.xml</info>
+        name="[B][COLOR ffe25d62]H[/COLOR]uy [COLOR ffe5bc86]P[/COLOR]hu[/B] Repository">
+        <info compressed="true">https://raw.githubusercontent.com/huyphu/kodi/master/addons/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/huyphu/kodi/master/addons/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/huyphu/kodi/master/addons/</datadir>
-        <<hashes>true</hashes>
+        <hashes>true</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en"><![CDATA[Official [COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository]]></summary>
-        <description lang="en"><![CDATA[Official [COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository contains all Kodi/XBMC addons collection by Huy Phu. All addons had tested, quality checked and updated.]]></description>
-        <disclaimer lang="en"><![CDATA[The content contained in this repository is for general purposes only. We're not reposible for contents are not provided by Huy Phu.]]></disclaimer>
-        <email>lienhe@huyphu.com</email>
+        <summary>Official [B][COLOR ffe25d62]H[/COLOR]uy [COLOR ffe5bc86]P[/COLOR]hu[/B] Repository</summary>
+        <description>[B][COLOR ffe25d62]H[/COLOR]uy [COLOR ffe5bc86]P[/COLOR]hu[/B] Repository contains all Kodi/XBMC addons collection by Huy Phu. All addons had tested, quality checked and updated.</description>
+        <language>en</language>
         <platform>all</platform>
+        <disclaimer lang="en">The content contained in this repository is for general purposes only. We're not reposible for contents are not provided by Huy Phu.</disclaimer>
+        <license>GNU General Public License - v2</license>
+        <source>https://github.com/huyphu/kodi</source>
+        <email>lienhe@huyphu.com</email>
     </extension>
 </addon>

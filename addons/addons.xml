@@ -15,8 +15,8 @@
             <provides>video</provides>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary lang="en"><![CDATA[Vdubt25]]></summary>
-            <description lang="en"><![CDATA[Watch All Your Favourite Streams From Vdubt25]]></description>
+            <summary>Vdubt25</summary>
+            <description>Watch All Your Favourite Streams From Vdubt25</description>
             <platform>all</platform>
         </extension>
     </addon>
