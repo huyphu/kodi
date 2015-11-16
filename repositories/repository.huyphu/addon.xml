@@ -2,7 +2,7 @@
 <addon id="repository.huyphu"
     name="[COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository"
     version="1.0.0"
-    provider-name="NguyenYustar@HuyPhu">
+    provider-name="NguyenYustar">
     <requires>
         <import addon="xbmc.addon" version="12.0.0" />
     </requires>
@@ -10,13 +10,14 @@
         name="[COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository">
         <info compressed="false">https://raw.githubusercontent.com/huyphu/kodi/master/addons/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/huyphu/kodi/master/addons/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/huyphu/kodi/master/addons</datadir>
+        <datadir zip="true">https://raw.githubusercontent.com/huyphu/kodi/master/addons/</datadir>
         <<hashes>true</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en"><![CDATA[Official [COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository]]></summary>
         <description lang="en"><![CDATA[Official [COLOR e25d62ff]H[/COLOR]uy [COLOR e5bc86ff]P[/COLOR]hu Repository contains all Kodi/XBMC addons collection by Huy Phu. All addons had tested, quality checked and updated.]]></description>
         <disclaimer lang="en"><![CDATA[The content contained in this repository is for general purposes only. We're not reposible for contents are not provided by Huy Phu.]]></disclaimer>
+        <email>lienhe@huyphu.com</email>
         <platform>all</platform>
     </extension>
 </addon>
