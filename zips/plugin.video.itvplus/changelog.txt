@@ -1,0 +1,4 @@
+2.0.1
+- Fix "Kho Phim"
+- Update Menu Setting in main
+- Added to Huy Phu Repository

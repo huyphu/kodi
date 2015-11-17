@@ -8,9 +8,9 @@
     </requires>
     <extension point="xbmc.addon.repository"
         name="[COLOR ffe25d62]H[/COLOR]uy [COLOR ffe5bc86]P[/COLOR]hu Repository">
-        <info compressed="true">https://github.com/huyphu/kodi/raw/master/addons/addons.xml</info>
-        <checksum>https://github.com/huyphu/kodi/raw/master/addons/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/huyphu/kodi/raw/master/addons</datadir>
+        <info compressed="true">https://github.com/huyphu/kodi/raw/master/addons.xml</info>
+        <checksum>https://github.com/huyphu/kodi/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/huyphu/kodi/raw/master/zips</datadir>
         <hashes>true</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">

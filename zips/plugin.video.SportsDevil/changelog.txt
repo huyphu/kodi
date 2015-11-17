@@ -1,0 +1,6 @@
+v1.8.8.0
+- Fix: iLive (thanks to L2501)
+- New: StreamHD in Sports TV
+- New: HitSports in Sports TV
+- Some minor fixes and catcher updates (thanks to L2501)
+- Added to Huy Phu Repository
