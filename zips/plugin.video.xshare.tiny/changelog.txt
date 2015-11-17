@@ -1,0 +1,3 @@
+1.0.6
+ - Fix GET maxspeedlink Fshare
+ - Added to Huy Phu Repository

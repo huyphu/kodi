@@ -1,0 +1,3 @@
+3.2.29
+- Fix phimmoi.net, Muc chia se phim cua hdvietnam
+- Added to Huy Phu Repository
