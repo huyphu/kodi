@@ -1,0 +1,4 @@
+1.0.4
+- add top 100
+- add Hot
+- Added to Huy Phu Repository
