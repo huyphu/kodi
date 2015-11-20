@@ -1,4 +1,20 @@
+﻿2.0.4
+- Fix bug version update
+
+2.0.3
+- Fix bug
+
+2.0.2
+- Fix "Kho Phim"
+- Fix "Thế Giới Nhạc Không Lời"
+- Update Menu "Tổng Hợp" in main
+- Update sub menu
+- Update time to "TIVI XEM LẠI"
+
 2.0.1
 - Fix "Kho Phim"
-- Update Menu Setting in main
+- Update Menu "Setting" in main
 - Added to Huy Phu Repository
+
+2.0.0 (10/11/2015)
+- New version
